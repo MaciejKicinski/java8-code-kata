@@ -47,4 +47,5 @@ public class Customer {
     public void setWantToBuy(List<Item> wantToBuy) {
         this.wantToBuy = wantToBuy;
     }
+
 }
